@@ -1,0 +1,79 @@
+ .thumbnail img {
+ 	max-height: 200px;
+ 	margin-left: auto;
+	margin-right: auto;
+	display: block;
+ }
+
+ .price{
+ 	font-weight: bold;
+ 	font-size: 16px;
+ }
+
+ .thumbnail .product_description{
+ 	color: #7f7f7f;
+ }
+
+ .hide_it_for_now{
+ 	display: hidden;
+ }
+
+ .bq-danger{
+ 	border-left: 5px solid #ff3547 !important;
+ }
+
+.signup_message_danger{
+	background: #e4adad;
+	border-radius: 5px;
+}
+
+ .bq-success{
+ 	border-left: 5px solid #4caf50 !important;
+ }
+
+.signup_message_success{
+	background: #73c376;
+	border-radius: 5px;
+}
+
+.signup_message_success ul li {
+	list-style: none;
+}
+
+.signup_block ul {
+	padding-left: 10px;
+}
+
+.signup_message_danger ul li {
+	margin: 0;
+	padding: 10px 0 10px 50px;
+	list-style: none;
+	background-image: url("/image/misc/warning_icon.png");
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-size: 30px;
+}
+
+.input_spinner{
+	width: 200px;
+	float: left;
+}
+
+.button_container button{
+	float: left;
+	margin-left: 20px;
+}
+
+.mt20px{
+	margin-top: 20px;
+}
+
+.bordered_element{
+	border: 2px solid #c5c5c5;
+	border-radius: 10px;
+	padding: 10px;
+}
+
+.mb10px{
+	margin-bottom: 10px;
+}
